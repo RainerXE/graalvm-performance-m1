@@ -1,1 +1,0 @@
-[Speed Limits for Rolling Restarts in Kubernetes](https://alexklibisz.com/2021/07/20/speed-limits-for-rolling-restarts-in-kubernetes.html)
